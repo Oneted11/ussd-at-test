@@ -13,7 +13,6 @@
   },
   "scripts": {
     "run": "node ussd-test.js",
-    "build": "npm install",
     "dev": "nodemon ussd-test.js"
   }
 }

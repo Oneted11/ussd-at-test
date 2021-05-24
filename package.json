@@ -12,7 +12,7 @@
     "ussd-menu-builder": "^1.2.0"
   },
   "scripts": {
-    "run": "node ussd-test.js",
+    "start": "node ussd-test.js",
     "dev": "nodemon ussd-test.js"
   }
 }
